@@ -1,0 +1,2 @@
+# The-Goblin-Hunt-A-DnD5e-Homebrew-Compendium
+This Compendium hosts a series of One-Shot adventures that are flexible for new players and dynamic timelines. Includes locations, maps, descriptions, characters, class skill trees, virtual playing cards and more. The Goblin Hunt campaign is the first, pilot D&amp;D 5E Homebrew set a continent full of rich landscapes in a low-magic, high-lore setting. 
