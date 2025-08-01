@@ -2,7 +2,6 @@
   <div>
     <Header />
     <main>
-      <SidebarFilters />
       <MainContent />
       <RightSidebar />
       <div style="display: flex; flex-wrap: wrap; gap: 1rem">
