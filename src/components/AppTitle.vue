@@ -14,7 +14,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
 .app-title {
   margin-bottom: 2rem;
   color: #fff;
