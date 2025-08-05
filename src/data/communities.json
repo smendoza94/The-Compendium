@@ -8,7 +8,8 @@
         "name": "Privilege",
         "text": "You have advantage on rolls to consort with nobles, negotiate prices, or leverage your reputation to get what you want."
       }
-    ]
+    ],
+    "artist": "Ken Sugimori"
   },
   {
     "name": "Loreborne",
@@ -19,7 +20,8 @@
         "name": "Well-Read",
         "text": "You have advantage on rolls that involve the history, culture, or politics of a prominent person or place."
       }
-    ]
+    ],
+    "artist": "Hiroshi Nagai"
   },
   {
     "name": "Orderborne",
@@ -30,7 +32,8 @@
         "name": "Dedicated",
         "text": "Record three sayings or values your upbringing instilled in you. Once per rest, when you describe how you’re embodying one of these principles through your current action, you can roll a **d20** as your Hope Die."
       }
-    ]
+    ],
+    "artist": "Hayao Miyazaki"
   },
   {
     "name": "Ridgeborne",
@@ -41,7 +44,8 @@
         "name": "Steady",
         "text": "You have advantage on rolls to traverse dangerous cliffs and ledges, navigate harsh environments, and use your survival knowledge."
       }
-    ]
+    ],
+    "artist": "Hideo Kojima"
   },
   {
     "name": "Seaborne",
@@ -52,7 +56,8 @@
         "name": "Know the Tide",
         "text": "You can sense the ebb and flow of life. When you roll with Fear, place a token on your community card. You can hold a number of tokens equal to your level. Before you make an action roll, you can spend any number of these tokens to gain a +1 bonus to the roll for each token spent. At the end of each session, clear all unspent tokens."
       }
-    ]
+    ],
+    "artist": "Hataya Muzinabu"
   },
   {
     "name": "Slyborne",
@@ -63,7 +68,8 @@
         "name": "Scoundrel",
         "text": "You have advantage on rolls to negotiate with criminals, detect lies, or find a safe place to hide."
       }
-    ]
+    ],
+    "artist": "Don Clemente"
   },
   {
     "name": "Underborne",
@@ -74,7 +80,8 @@
         "name": "Low-Light Living",
         "text": "When you’re in an area with low light or heavy shadow, you have advantage on rolls to hide, investigate, or perceive details within that area."
       }
-    ]
+    ],
+    "artist": "sowsowkoubou"
   },
   {
     "name": "Wanderborne",
@@ -85,7 +92,8 @@
         "name": "Nomadic Pack",
         "text": "Add a Nomadic Pack to your inventory. Once per session, you can spend a Hope to reach into this pack and pull out a mundane item that’s useful to your situation. Work with the GM to figure out what item you take out."
       }
-    ]
+    ],
+    "artist": "MINAMINAMI Take"
   },
   {
     "name": "Wildborne",
@@ -96,6 +104,7 @@
         "name": "Lightfoot",
         "text": "Your movement is naturally silent. You have advantage on rolls to move without being heard."
       }
-    ]
+    ],
+    "artist": "Nakamura Ippan"
   }
 ]

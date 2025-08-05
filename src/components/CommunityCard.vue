@@ -7,13 +7,12 @@
       <!-- Top Bar: Community Name -->
       <div class="flex justify-between">
         <span class="text-[10px] font-semibold text-gray-400">
-          {{ community.name || "Unknown Community" }}
+          {{ community.name || "Unknown Community" }} • Community Feat
         </span>
-        <span class="text-gray-400">{{ index + 1 }} / {{ total }}</span>
       </div>
 
       <!-- Feat Title -->
-      <div class="mt-2">
+      <div>
         <h3 class="font-bold text-white text-outline text-sm">
           {{ feat?.name || "Unnamed Feat" }}
         </h3>
@@ -27,12 +26,22 @@
       </div>
 
       <!-- Description -->
-      <div class="pt-2 text-[9px]">
-        <p class="text-gray-300 italic">
+      <div class="mt-2 pt-2 border-t border-gray-200 text-[9px]">
+        <!-- <p class="text-gray-300 italic">
           {{ community.description || "" }}
-        </p>
+        </p> -->
+        <span class="text-gray-300 italic" v-if="community.note">
+          {{ community.note }}
+        </span>
+        <div class="mt-1 flex justify-between">
+          <span class="text-gray-500"
+            >Illus. FLUX.1 Inspo. {{ community.artist }}</span
+          >
+          <span class="text-gray-400"> {{ index + 1 }} / {{ total }} </span>
+        </div>
         <p class="text-gray-400 mt-1">
-          <span v-if="community.note"><b>Note:</b> {{ community.note }}</span>
+          Abridged from Starke, Spenser, et al. Daggerheart Core Set. Darrington
+          Press, 2025.
         </p>
       </div>
     </div>
@@ -50,8 +59,8 @@ export default {
   },
   computed: {
     communityImage() {
-      return this.community.name
-        ? `/communities/${this.community.name
+      return this.feat && this.feat.name
+        ? `/communities/${this.feat.name
             .toLowerCase()
             .replace(/\s+/g, "_")}_480x672.webp`
         : "";
