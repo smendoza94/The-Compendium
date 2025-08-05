@@ -2,7 +2,7 @@
 This component displays a D&D card with ability details -->
 
 <template>
-  <div class="mt-4">
+  <div class="mt-4 text-outline">
     <!-- Card Container, Border, and Background Image-->
     <div
       class="w-[250px] h-[350px] backdrop-brightness-50 border-4 border-gray-300 rounded-lg shadow-lg text-xs flex flex-col justify-between p-2 bg-cover bg-center"

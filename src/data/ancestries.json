@@ -11,7 +11,8 @@
         "name": "Efficient",
         "text": "When you take a short rest, you can choose a long rest move instead of a short rest move."
       }
-    ]
+    ],
+    "artist": "Japanese Nihonga"
   },
   {
     "name": "Drakona",
@@ -25,7 +26,8 @@
         "name": "Elemental Breath",
         "text": "Choose an element for your breath (such as electricity, fire, or ice). You can use this breath against a target or group of targets within Very Close range, treating it as an Instinct weapon that deals **d8** magic damage using your Proficiency."
       }
-    ]
+    ],
+    "artist": "Pacific Northwest Coastal Native American"
   },
   {
     "name": "Dwarf",
@@ -39,7 +41,8 @@
         "name": "Increased Fortitude",
         "text": "**Spend 3 Hope** to halve incoming physical damage."
       }
-    ]
+    ],
+    "artist": "Katsushika Hokusai"
   },
   {
     "name": "Elf",
@@ -53,7 +56,8 @@
         "name": "Celestial Trance",
         "text": "During a rest, you can drop into a trance to choose an additional downtime move."
       }
-    ]
+    ],
+    "artist": "Totemic Simplified art"
   },
   {
     "name": "Faerie",
@@ -67,7 +71,8 @@
         "name": "Wings",
         "text": "You can fly. While flying, you can **mark a Stress** after an adversary makes an attack against you to gain a +2 bonus to your Evasion against that attack."
       }
-    ]
+    ],
+    "artist": "Japanese Ukiyo-e"
   },
   {
     "name": "Faun",
@@ -81,7 +86,8 @@
         "name": "Kick",
         "text": "When you succeed on an attack against a target within Melee range, you can **mark a Stress** to kick yourself off them, dealing an extra **2d6** damage and knocking back either yourself or the target to Very Close range."
       }
-    ]
+    ],
+    "artist": "MARINA Chikazawa"
   },
   {
     "name": "Firbolg",
@@ -95,7 +101,8 @@
         "name": "Unshakable",
         "text": "When you would mark a Stress, roll a **d6**. On a result of 6, don’t mark it."
       }
-    ]
+    ],
+    "artist": "Saboteri"
   },
   {
     "name": "Fungril",
@@ -109,7 +116,8 @@
         "name": "Death Connection",
         "text": "While touching a corpse that died recently, you can **mark a Stress** to extract one memory from the corpse related to a specific emotion or sensation of your choice."
       }
-    ]
+    ],
+    "artist": "Dsuke"
   },
   {
     "name": "Galapa",
@@ -123,7 +131,8 @@
         "name": "Retract",
         "text": "**Mark a Stress** to retract into your shell. While in your shell, you have resistance to physical damage, you have disadvantage on action rolls, and you can’t move."
       }
-    ]
+    ],
+    "artist": "Krgc"
   },
   {
     "name": "Giant",
@@ -137,7 +146,8 @@
         "name": "Reach",
         "text": "Treat any weapon, ability, spell, or other feature that has a Melee range as though it has a Very Close range instead."
       }
-    ]
+    ],
+    "artist": "Hiroyuki Yamamoto"
   },
   {
     "name": "Goblin",
@@ -151,7 +161,8 @@
         "name": "Danger Sense",
         "text": "Once per rest, **mark a Stress** to force an adversary to reroll an attack against you or an ally within Very Close range."
       }
-    ]
+    ],
+    "artist": "akagi"
   },
   {
     "name": "Halfling",
@@ -165,7 +176,8 @@
         "name": "Internal Compass",
         "text": "When you roll a 1 on your Hope Die, you can reroll it."
       }
-    ]
+    ],
+    "artist": "Narumi Sata"
   },
   {
     "name": "Human",
@@ -179,7 +191,8 @@
         "name": "Adaptability",
         "text": "When you fail a roll that utilized one of your Experiences, you can mark a Stress to reroll."
       }
-    ]
+    ],
+    "artist": "Yoriyuki Ikegami"
   },
   {
     "name": "Infernis",
@@ -193,7 +206,8 @@
         "name": "Dread Visage",
         "text": "You have advantage on rolls to intimidate hostile creatures."
       }
-    ]
+    ],
+    "artist": "Shinya Komatsu"
   },
   {
     "name": "Katari",
@@ -207,7 +221,8 @@
         "name": "Retracting Claws",
         "text": "Make an **Agility Roll** to scratch a target within Melee range. On a success, they become temporarily Vulnerable."
       }
-    ]
+    ],
+    "artist": "Whisker"
   },
   {
     "name": "Orc",
@@ -221,7 +236,8 @@
         "name": "Tusks",
         "text": "When you succeed on an attack against a target within Melee range, you can **spend a Hope** to gore the target with your tusks, dealing an extra **1d6** damage."
       }
-    ]
+    ],
+    "artist": "Teezro"
   },
   {
     "name": "Ribbet",
@@ -235,7 +251,8 @@
         "name": "Long Tongue",
         "text": "You can use your long tongue to grab onto things within Close range. **Mark a Stress** to use your tongue as a Finesse Close weapon that deals **d12** physical damage using your Proficiency."
       }
-    ]
+    ],
+    "artist": "osare"
   },
   {
     "name": "Simiah",
@@ -249,6 +266,7 @@
         "name": "Nimble",
         "text": "Gain a permanent +1 bonus to your Evasion at character creation."
       }
-    ]
+    ],
+    "artist": "Mitsuhiro Arita"
   }
 ]
