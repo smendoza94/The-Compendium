@@ -7,7 +7,7 @@
       <!-- Top Bar: Ancestry Name and Feat Name -->
       <div class="flex justify-between">
         <span class="text-[10px] font-semibold text-gray-400">
-          {{ ancestry.name || "Unknown" }} • Feat
+          {{ ancestry.name || "Unknown" }} • Ancestry Feat
         </span>
       </div>
 
