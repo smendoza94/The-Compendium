@@ -2,6 +2,13 @@
   <div>
     <AppTitle />
     <section class="card-flex">
+      <DomainCard
+        v-for="(domain, idx) in domains"
+        :key="`domain-${idx}`"
+        :domain="domain"
+        :index="idx"
+        :total="domains.length"
+      />
       <CommunityCard
         v-for="(card, idx) in communityFeatCards"
         :key="`community-feat-${idx}`"
@@ -35,9 +42,11 @@ import AppTitle from "./components/AppTitle.vue";
 import AbilityCard from "./components/AbilityCard.vue";
 import AncestriesCard from "./components/AncestriesCard.vue";
 import CommunityCard from "./components/CommunityCard.vue";
+import DomainCard from "./components/DomainCard.vue";
 import abilities from "./data/abilities.json";
 import ancestries from "./data/ancestries.json";
 import communities from "./data/communities.json";
+import domains from "./data/domains.json";
 
 export default {
   components: {
@@ -45,12 +54,14 @@ export default {
     AbilityCard,
     AncestriesCard,
     CommunityCard,
+    DomainCard,
   },
   data() {
     return {
       abilities,
       ancestries,
       communities,
+      domains,
     };
   },
   computed: {
